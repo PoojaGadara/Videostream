@@ -1,2 +1,2 @@
 # Videostream
-This Project is Video Streaming Project USing MERN Stack
+This Project is Video Streaming Project Using MERN Stack
